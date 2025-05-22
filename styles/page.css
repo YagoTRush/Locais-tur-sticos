@@ -5,8 +5,26 @@
     header{
         img{
             border-radius: 2.8rem;
-            margin-bott
+            margin-bottom: 2.4rem;
+            height: 66rem;
         }
+
+        p{
+            font-style: italic;
+            text-align: center;
+        }
+    }
+
+
+    .divider{
+        height: 1px;
+        background-color: var(--border-primary);
+        margin-block: 4rem;
+    }
+
+
+    .amantes-historia{
+        margin-bottom: 6.4rem;
     }
 }
     
